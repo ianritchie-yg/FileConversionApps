@@ -8,7 +8,7 @@ def main():
     # ---- Add a logo or banner image at the top (optional) ----
     st.image(
         "https://via.placeholder.com/600x100.png?text=My+SAV+Converter+Banner",
-        use_column_width=True
+        use_container_width=True
     )
 
     st.title("SPSS .sav to CSV/XLSX Converter")

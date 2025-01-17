@@ -3,5 +3,3 @@ pyreadstat
 pandas
 openpyxl
 tempfile
-os
-time

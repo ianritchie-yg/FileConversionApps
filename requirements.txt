@@ -1,5 +1,5 @@
 streamlit
-pyreadstat
 pandas
 openpyxl
+pyreadstat
 tempfile
